@@ -1,5 +1,6 @@
 @echo off
 color c
+title Setup - Crediti: Calabrese#0001
 net session >nul 2>&1
 if %errorLevel% == 0 (
     echo Programma aperto come amministratore! Continuando...
