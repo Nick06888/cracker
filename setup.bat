@@ -6,10 +6,12 @@ if %errorLevel% == 0 (
     goto continua
 ) else (
     echo Devi avviare il programma come amministratore!
-    pause
+    goto fine
 )
 :continua
 bcdedit -set TESTSIGNING OFF
 cd dist
 explorer.exe %CD%
+pause
+:fine
 pause
