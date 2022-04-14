@@ -10,4 +10,4 @@ https://discord.gg/Zfm9wYAazp
 #### *Perchè mi dice che è un virus?*
 ##### Non preoccupatevi è normale perchè il file non è popolare quindi viene riconosciuto come "Pericoloso".
 ##### **Segui le seguenti istruzioni per avviarlo:**
-1[antivirusimg](https://cdn.discordapp.com/attachments/653666644689682462/964189914927349820/Win8SecurityWarn-2.png)
+![antivirusimg](https://cdn.discordapp.com/attachments/653666644689682462/964189914927349820/Win8SecurityWarn-2.png)
